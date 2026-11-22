@@ -1,4 +1,3 @@
-## MATLAB PROGRAM:
 %% EXPERIMENT 1: ECG NOISE REMOVAL AND QRS DETECTION
 % Complete program: Generate input, save, load, filter,
 % detect QRS complexes, calculate heart rate, and plot results.

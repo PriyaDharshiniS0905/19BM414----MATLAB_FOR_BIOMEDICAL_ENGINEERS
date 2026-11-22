@@ -24,3 +24,4 @@ power in each band.
 3. Signal duration = 30.00 seconds.
 4. Number of samples = 7680.
 5. PSD segments averaged = 14.
+## OUTPUT:

@@ -28,11 +28,12 @@ power in each band.
 ## FIGURE 1 - Raw EEG Signal
 <img width="1651" height="780" alt="691916899-24438968-1c5c-4289-8f1b-0f4655f3a476" src="https://github.com/user-attachments/assets/5d666ec2-de99-4c6e-8725-ecbaad4cf91c" />
 
-## RESULT:
-The experiment was performed successfully using MATLAB. The input was processed according to the 
-stated method and the expected biomedical output was obtained.
 ## FIGURE 2 - EEG after Trend Removal
 <img width="1607" height="785" alt="691917351-c9b73582-3bd8-4aef-b854-20175126ed1a" src="https://github.com/user-attachments/assets/03e5d69e-fb32-45b0-a4ec-69cd20645231" />
 
 ## FIGURE 3 - EEG Power Spectral Density
 <img width="1598" height="752" alt="691917862-92cbeda9-e269-430c-81e3-4569059a35fa" src="https://github.com/user-attachments/assets/bc6a2b7c-2c20-4628-b815-090669d2d9c8" />
+
+## RESULT:
+The experiment was performed successfully using MATLAB. The input was processed according to the 
+stated method and the expected biomedical output was obtained.

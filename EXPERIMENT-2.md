@@ -1,4 +1,4 @@
-## ECG FREQUENCY BAND ANALYSIS
+## EXPERIMENT 2: ECG FREQUENCY BAND ANALYSIS
 ## AIM:
 To analyse EEG frequency content and calculate the power in standard EEG bands.
 ## INPUT FILE / PARAMETERS:
@@ -19,3 +19,8 @@ power in each band.
 6. Plot absolute and relative band power.
 7. Identify the dominant band.
 ## OBSERVATIONS:
+1. Input file = eeg_sample.mat
+2. Sampling frequency = 256.00 Hz.
+3. Signal duration = 30.00 seconds.
+4. Number of samples = 7680.
+5. PSD segments averaged = 14.

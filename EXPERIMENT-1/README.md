@@ -17,7 +17,6 @@ peak detection.
 5. Apply a 150 ms moving-window integration.
 6. Detect QRS candidates using minimum height and minimum distance.
 7. Calculate RR intervals and estimated heart rate.
-
 ## OBSERVATIONS:
 1. Sampling frequency = 360Hz.
 2. Signal Duration =10.00 seconds.

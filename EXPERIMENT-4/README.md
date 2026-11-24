@@ -4,7 +4,7 @@ To read, visualize and quantitatively analyse a DICOM medical image using MATLAB
 ## INPUT:
 A de-identified DICOM file such as sample_ct.dcm. Patient identifiers must not be copied into the report.
 ## INPUT FILE / PARAMTERS:
-
+File name / Model:sample_ct.dcm
 ## THEORY / PRINCIPLE:
 DICOM stores image pixels together with acquisition and technical metadata. dicominfo reads the header and dicomread reads the image. For CT, rescale slope and intercept may
 be used to obtain physical CT values.

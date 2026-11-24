@@ -1,6 +1,8 @@
 ## EXPERIMENT 1: ECG NOISE REMOVAL AND QRS DETECTION
 ## AIM:
 To remove noise from an ECG signal and detect QRS complexes using MATLAB.
+## INPUT:
+One ECG waveform and sampling frequency. Example: ecg_sample.mat containing ecg and fs = 360Hz.
 ## INPUT FILE / PARAMETERS:
 File name/model : ecg_sample.mat
 ## THEORY / PRINCIPLE:

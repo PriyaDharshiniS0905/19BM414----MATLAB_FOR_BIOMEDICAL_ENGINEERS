@@ -1,6 +1,8 @@
 ## EXPERIMENT 2: ECG FREQUENCY BAND ANALYSIS
 ## AIM:
 To analyse EEG frequency content and calculate the power in standard EEG bands.
+## INPUT:
+One EEG channel and its sampling frequency. Example: eeg_sample.mat containing eeg and fs = 256Hz.
 ## INPUT FILE / PARAMETERS:
 File name/model: eeg_sample.mat
 ## THEORY / PRINCIPLE:
